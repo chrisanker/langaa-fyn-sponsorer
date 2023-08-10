@@ -5,7 +5,8 @@ let currentImg = 1;
 
 window.onload = (event) => {
     createImg();
-    setInterval(nextImg, 2000);
+    const millisBetweenImgChange = 5000;
+    setInterval(nextImg, millisBetweenImgChange);
 }
 
 const images = [{
