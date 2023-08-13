@@ -1,4 +1,3 @@
-const imageSection = document.querySelector("#imagesGallery");
 const imageOnDisplay = document.querySelector("#imageOnDisplay");
 
 let currentImg = 1;
@@ -46,4 +45,3 @@ function nextImg() {
         currentImg++;
     }
 }
-
