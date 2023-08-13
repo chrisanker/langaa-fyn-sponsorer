@@ -24,6 +24,10 @@ const images = [{
 {
     url: "https://static.wixstatic.com/media/d4c8cd_c0f304aa1217441491e8cc815fb9abb4~mv2.jpg",
     alt: "Østfyn VVS og Energiservice"
+},
+{
+    url: "https://static.wixstatic.com/media/d4c8cd_f8d7a41f8eaf4dbda0b5c172af634f66~mv2.jpg",
+    alt: "Hesselager Bilpleje"
 }];
 
 
