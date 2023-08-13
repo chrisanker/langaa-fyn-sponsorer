@@ -1,6 +1,14 @@
 .image {
-    width: 100%;
+    width: 120em;
+    height: 60em;
+    object-fit: cover;
 }
 h1 {
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
     text-align: center;
 }
