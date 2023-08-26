@@ -39,6 +39,10 @@ const images = [{
 {
     url: "https://static.wixstatic.com/media/a89772_687e3ac67b1c490a8d50f31ca99a25ff~mv2.jpg",
     alt: "Højlund Mølle - Ryttershoppen"
+},
+{
+    url: "https://langaafynsponsorer.blob.core.windows.net/sponsor-images/ørbæk-varmeservice.jpg",
+    alt: "Ørbæk Varmeservice"
 }];
 
 
