@@ -60,3 +60,7 @@ html {
     justify-content: space-evenly;
     gap: 1vh;
 }
+
+.slides {
+    display: none;
+}
